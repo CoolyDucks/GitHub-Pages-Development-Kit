@@ -8,13 +8,7 @@ This SDK lets you:
 - Preview your code without reload
 - Deploy directly to GitHub Pages
 
----
 
-## Quick Start
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/your-repo.git
 
 ## Link Of SDK 🙂 in IceDrive
 
